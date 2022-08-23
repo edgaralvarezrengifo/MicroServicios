@@ -17,4 +17,7 @@ export class Product {
    @Column()
    Cantidad:number;
 
+   @Column()
+   Precio:number;
+
 }

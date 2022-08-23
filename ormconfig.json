@@ -2,8 +2,8 @@
     "type":"mysql",
     "host":"localhost",
     "port":3306,
-    "username":"testUser",
-    "password":"test1234",
+    "username":"root",
+    "password":"rootroot",
     "database":"test_microservices",
     "entities":[
         "src/Entity/*.js"

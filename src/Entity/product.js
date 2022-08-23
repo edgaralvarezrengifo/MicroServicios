@@ -34,6 +34,10 @@ var Product = /** @class */ (function () {
         (0, typeorm_1.Column)(),
         __metadata("design:type", Number)
     ], Product.prototype, "Cantidad", void 0);
+    __decorate([
+        (0, typeorm_1.Column)(),
+        __metadata("design:type", Number)
+    ], Product.prototype, "Precio", void 0);
     Product = __decorate([
         (0, typeorm_1.Entity)()
     ], Product);
